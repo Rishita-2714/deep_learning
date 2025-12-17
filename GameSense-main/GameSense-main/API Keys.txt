@@ -1,6 +1,6 @@
 API KEYS: (Can Use Anyone) -Gemini APIs
 
-1. AIzaSyCT4f9IP8Go7wEvobKJCMsSxs60tVac1gM
-2. AIzaSyDQmMyQjtNjTVPKZm9KioIDd5FuKyLZaXY
+
+
 
 Just paste the API in placeholder in the three files where it is needed.
